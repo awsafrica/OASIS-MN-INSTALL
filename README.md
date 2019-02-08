@@ -29,7 +29,7 @@ PRIVATE KEYS - Only add your own if you are doing your own install, if you use a
 
 Then you should have a script output similar to this one:
 
-![mnsetupready](https://raw.githubusercontent.com/awsafrica/brixcoin6.0/master/contrib/masternode/brixmnsetupready.jpg)
+![mnsetupready](https://raw.githubusercontent.com/awsafrica/OASIS-MN-INSTALL/master/OASIS-EZIMN-Setup-Completed.jpg)
 
 The most important thing is the green line with the data you have to put into your local wallet. So let's go back to it to finalise the setup.
 
