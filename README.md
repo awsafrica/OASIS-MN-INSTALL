@@ -32,7 +32,7 @@ The most important thing is the green line with the data you have to put into yo
 
 # 3 - Local wallet (masternode start)
 
-First you should edit a masternode configuration file which is located in the coin data directory. On Windows it is in the "%APPDATA%/BrixcoinCore" directory. But you may simply use Tools → **Open Masternode Configuration** File to edit it.
+First you should edit a masternode configuration file which is located in the coin data directory. On Windows it is in the "%APPDATA%/Oasis" directory. But you may simply use Tools → **Open Masternode Configuration** File to edit it.
 
 * Copy the green line starting from ezimn1 from your Linux console and paste it into the end of **masternode.conf** file you just opened.
 * Replace your-tx-hash and your-tx-index with the data from masternode outputs command you got earlier.
