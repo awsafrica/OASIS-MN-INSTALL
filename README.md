@@ -19,7 +19,9 @@ You have to find a Linux server which runs 24/7/365 and has a real IP address ac
 Copy and paste the following commands to the root command prompt on Linux:
 
 `wget -N https://raw.githubusercontent.com/awsafrica/OASIS-MN-INSTALL/master/install.sh`
+
 `chmod 755 install.sh`
+
 `bash install.sh`
 
 The script will check if it runs on a supported Ubuntu version, update your system, install necessary libraries, install OASISCoin software, configure it as a cold masternode daemon and set the masternode private key. If you don't have one yet, just press Enter, and a new key will be generated for you.
