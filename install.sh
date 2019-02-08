@@ -261,7 +261,7 @@ function important_information() {
   echo -e "Step 5 - Restart your (desktop) wallet, wait for at least 15 confirmations of collateral tx and start your masternode."
   echo -e "${GREEN}================================================================================================================================${NC}"
   echo -e "This script is provided by, ${RED}https://github.com/awsafrica/${NC}"
-  echo -e "Used according to GNU GPL 3.0 terms and conditions."
+  echo -e "Used according to MIT License."
   echo
   echo -e "${GREEN}================================================================================================================================${NC}"
 }
