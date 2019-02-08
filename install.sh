@@ -225,7 +225,7 @@ EOF
 }
 
 function install_sentinel() {
-cd .brixcoincore
+cd .oasis
 git clone https://github.com/awsafrica/sentinel.git && cd sentinel
 virtualenv ./venv
 ./venv/bin/pip install -r requirements.txt
