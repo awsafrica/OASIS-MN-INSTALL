@@ -22,7 +22,8 @@ Copy and paste the following commands to the root command prompt on Linux:
 
 `bash install.sh`
 
-The script will check if it runs on a supported Ubuntu version, update your system, install necessary libraries, install OASISCoin software, configure it as a cold masternode daemon and ask you for your masternode private key. If you don't have one yet, just press Enter, and a new key will be generated for you.
+The script will check if it runs on a supported Ubuntu version, update your system, install necessary libraries, install OASISCoin software, configure it as a cold masternode daemon and set the masternode private key. If you don't have one yet, just press Enter, and a new key will be generated for you.
+PRIVATE KEYS - Only add your own if you are doing your own install, if you use a thirdparty provider then you should never share your private key.
 
 Then you should have a script output similar to this one:
 
