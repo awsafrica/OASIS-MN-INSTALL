@@ -41,7 +41,7 @@ First you should edit a masternode configuration file which is located in the co
 * Replace your-tx-hash and your-tx-index with the data from masternode outputs command you got earlier.
 * Close editor and save the file.
 * Close and restart your wallet.
-* After restart ensure you have **at least 15 confirmations** of your collateral transaction. If you have less - please wait, or your masternode will not start.
+* After restart ensure you have **at least 16 confirmations** of your collateral transaction. If you have less - please wait, or your masternode may not start correctly.
 * If you have the Masternodes tab - switch to it. If not, open wallet preferences and enable Masternodes tab from there.
 * Click Start All button to start your masternode.
 
