@@ -8,7 +8,7 @@ First, you need to make a transaction collateral of exactly 285 OASIS coins. It 
 * Start the OASIS wallet on your desktop and wait for it to complete the blockchain synchronisation.
 * Open Menu → **Receiving addresses**... and create a new address with label EZIMN1 (or any one you like). Copy this address to the clipboard.
 * Send exactly 285 OASIS coins in a single transaction to the account address you generated in the previous step. This may be sent from another wallet, or from funds already held in your current wallet.
-* Wait for at least 15 transaction confirmations.
+* Wait for at least 16 transaction confirmations.
 * Go to Help/Tools → **Debug console** and type the following command: masternode outputs
 * This command should print a collateral transaction hash and index, usually 0 or 1.
 * Keep this info at hand and proceed to the remote VPS setup.
