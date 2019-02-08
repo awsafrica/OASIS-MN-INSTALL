@@ -254,7 +254,7 @@ function important_information() {
   echo -e "${GREEN}================================================================================================================================${NC}"
   echo -e "Step 1 - Create a new receiving address using your (desktop) cold wallet."  
   echo -e "Step 2 - Send exactly 285 OASIS coins to the new receiving address using your (desktop) cold wallet."
-  echo -e "Step 3 - After at least 1 confirmation then enter the following command in your wallet debug console: ${RED}masternode outputs${NC}"
+  echo -e "Step 3 - After at least 16 confirmation then enter the following command in your wallet debug console: ${RED}masternode outputs${NC}"
   echo -e "You should have a masternode collateral transaction hash and index (usually 0 or 1)."
   echo -e "Step 4 - Edit ${RED}masternode.conf${NC} file in your (desktop) cold wallet data directory and copy and add the following line:"
   echo -e "${GREEN}mn1 $NODEIP:$COIN_PORT $COINKEY add-your-tx-hash-here add-your-tx-index-here${NC}"
